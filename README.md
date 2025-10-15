@@ -12,6 +12,18 @@ Wesley da Silva Santos 2522594
     EM SEGUIDA USAR O TERMINAL GIT BASH E EXECUTAR
     {node notas.js}
 
+    Como Rodar o Projeto
+1️⃣ Instalar Dependências
+npm install
+
+2️⃣ Compilar o TypeScript
+npx tsc
+
+Isso vai gerar os arquivos JavaScript dentro da pasta dist/.
+
+3️⃣ Executar o Projeto
+node dist/notas.js
+
 ______________________________________________________________________________________________________
 
                 Funcionalidades
