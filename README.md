@@ -1,7 +1,7 @@
                                        Sistema de Boletim Escolar
     Aplicação simples em TypeScript para cadastrar alunos, calcular médias e gerar boletins finais.
 
-    OBS: PARA INICIAR O CÓDIGO, É NECESSÁRIO RODAR DENTRO DA PASTA \SRC
+    OBS: PARA INICIAR O CÓDIGO, É NECESSÁRIO RODAR DENTRO DA PASTA \SRC USANDO O {cd src}
     EM SEGUIDA USAR O TERMINAL GIT BASH E EXECUTAR
     {node notas.js}
 
